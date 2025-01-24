@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Caitlin 👋
+
+- 🌎 I'm located in the SF Bay Area
+- 🔭 I’m currently working on an easier way to search and filter for award winning restaurants near me
+- 🥘 When I'm not coding I love hiking, dogs, cooking, trying new foods, and reading
+
+# Connect with me
+- https://www.linkedin.com/in/cait-jordan17/
 
 <!--
 **caitjordan17/caitjordan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... 🌎--> 
