@@ -5,7 +5,7 @@
 - 🥘 When I'm not coding I love hiking, dogs, cooking, trying new foods, and reading
 
 # Connect with me
-- https://www.linkedin.com/in/cait-jordan17/
+- <a href="https://www.linkedin.com/in/cait-jordan17/"><src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/linkedin.png" alt="Caitlin Jordan | LinkedIn" width="21px"/></a>
 
 <!--
 **caitjordan17/caitjordan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
