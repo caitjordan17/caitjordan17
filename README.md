@@ -11,7 +11,7 @@
 <p align=left><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/python-original.svg" alt="Python" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/javascript-plain.svg" alt="JavaScript" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/react-original.svg" alt="React" width="41px"/>
-<img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/flask-negative.svg" alt="Flask" width="41px"/>
+<img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/flask-negative.png" alt="Flask" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/mysql-original.svg" alt="MySQL" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/postgresql-original.svg" alt="PostgreSQL" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/redux-original.svg" alt="Redux" width="41px"/>
