@@ -7,7 +7,7 @@
 ## Connect with me 
 <a href="https://www.linkedin.com/in/cait-jordan17/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/linkedin.png" alt="Caitlin Jordan | LinkedIn" width="41px"/></a>
 
-<a href="https://caitjordan17.github.io/caitlins-tavern/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/caits-site.png" alt="Cait's Site" width="410px"/></a>
+<a href="https://caitjordan17.github.io/caitlins-tavern/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/caits-site.png" alt="Cait's Site" width="45px"/></a>
 
 ## Technical Skills
 <p align=left><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/python-original.svg" alt="Python" width="41px"/>
