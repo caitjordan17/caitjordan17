@@ -6,9 +6,6 @@
 
 <a href="https://caitjordan17.github.io/caitlins-tavern/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/caits-site.png" alt="Cait's Site" width="145px" align="middle"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cait-jordan17/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/linkedin.png" alt="Caitlin Jordan | LinkedIn" width="41px" align="middle"/></a>
 
-## Projects
-<a href="https://caitjordan17.github.io/demo-static-chart-watch/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/chart-watch-badge.png" alt="ChartWatch" width="145px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ## Technical Skills
 <p align=left><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/python-original.svg" alt="Python" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/javascript-plain.svg" alt="JavaScript" width="41px"/>
@@ -19,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/redux-original.svg" alt="Redux" width="41px"/>
 <img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/html5-original.svg" alt="HTML5" width="41px"/></p>
 
-
+## Projects
+<a href="https://caitjordan17.github.io/demo-static-chart-watch/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/chart-watch-badge.png" alt="ChartWatch" width="145px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
 **caitjordan17/caitjordan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
