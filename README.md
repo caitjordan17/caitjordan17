@@ -1,8 +1,9 @@
 # Hi there, I'm Caitlin
 
-- 🌎 I'm located in the SF Bay Area
-- 🔭 I’m currently working on an easier way to search and filter for award winning restaurants near me
-- 🥘 When I'm not coding I love hiking, dogs, cooking, trying new foods, and reading
+- Bay Area developer working with React, JavaScript, Python, and Flask. Always looking to learn something new
+- Building web apps / features that solve practical problems and help people get more from their tools
+- Away from the keyboard: hiking, hanging out with dogs, trying new recipes, and getting into a good book
+- Check out my site below! 
 
 <a href="https://caitjordan17.github.io/caitlins-tavern/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/caits-site.png" alt="Cait's Site" width="145px" align="middle"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cait-jordan17/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/linkedin.png" alt="Caitlin Jordan | LinkedIn" width="41px" align="middle"/></a>
 
