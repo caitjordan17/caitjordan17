@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an easier way to search and filter for award winning restaurants near me
 - 🥘 When I'm not coding I love hiking, dogs, cooking, trying new foods, and reading
 
-<a href="https://caitjordan17.github.io/caitlins-tavern/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/caits-site.png" alt="Cait's Site" width="145px"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cait-jordan17/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/linkedin.png" alt="Caitlin Jordan | LinkedIn" width="41px"/></a>
+<a href="https://caitjordan17.github.io/caitlins-tavern/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/caits-site.png" alt="Cait's Site" width="145px" align="middle"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cait-jordan17/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/linkedin.png" alt="Caitlin Jordan | LinkedIn" width="41px" align="middle"/></a>
 
 ## Projects
 <a href="https://caitjordan17.github.io/demo-static-chart-watch/"><img src="https://raw.githubusercontent.com/caitjordan17/caitjordan17/main/images/chart-watch-badge.png" alt="ChartWatch" width="145px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
